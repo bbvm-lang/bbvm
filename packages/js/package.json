@@ -1,0 +1,27 @@
+{
+   "name": "bbvm",
+   "version": "1.0.0",
+   "description": "bbvm ffi",
+   "main": "index.js",
+   "types": "index.d.ts",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/bbvm-lang/bbvm/tree/master/packages/js"
+   },
+   "keywords": [
+      "ffi",
+      "vm",
+      "bb",
+      "multi",
+      "lib",
+      "access"
+   ],
+   "author": "musangtara",
+   "license": "GPL-3.0-or-later",
+   "dependencies": {
+      "@types/node": "^14.14.37"
+   }
+}
