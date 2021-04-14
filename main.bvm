@@ -1,0 +1,9 @@
+@take "std:io"
+
+<[main]>
+   io|print("hello world");
+<[main]>
+
+block add(x::int, y::int) {int} [
+	return x + y;
+]

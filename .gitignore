@@ -1,0 +1,8 @@
+*.so
+*.o
+bbvm.dSYM
+bbvm
+a.out
+.DS_Store
+*.exe
+tmp/
